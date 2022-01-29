@@ -23,5 +23,5 @@ app.get('/milk', function(req, res){
 })
 
 app.listen(PORT, ()=>{
-    console.log(`========== ISI SERVER RUNNING ON PORT ${PORT} ==========`)
+    console.log(`========== SERVER RUNNING ON PORT ${PORT} ==========`)
 })
